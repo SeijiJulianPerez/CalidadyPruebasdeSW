@@ -1,1 +1,1 @@
-int fact(int num);
+int fact(int num, int mun);
