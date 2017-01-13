@@ -1,4 +1,4 @@
-#include "almacen.cc"
+#include "almacen.h"
 #include "time.h"
 #include "gtest/gtest.h"
 

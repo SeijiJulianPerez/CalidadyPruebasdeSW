@@ -1,4 +1,4 @@
-#include "first.cc"
+#include "first.h"
 #include "gtest/gtest.h"
 
 TEST(factorial, positivos){
