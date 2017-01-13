@@ -43,8 +43,8 @@ TEST_F(AlmacenJ, add){
 	ASSERT_EQ(1, a->lista->size());
 }
 
-TEST_F(AlmacenJ, delet){
-	a->delet(0);
+TEST_F(AlmacenJ, eliminar){
+	a->eliminar(0);
 	ASSERT_EQ(0, a->lista->size());
 }
 
