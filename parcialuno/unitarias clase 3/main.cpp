@@ -1,6 +1,7 @@
+#pragma once
 #include <iostream>
-#include "cesar.h"
-#include "vinegere.h"
+#include "Cesar.h"
+#include "Vinegere.h"
 
 int main() {
 
