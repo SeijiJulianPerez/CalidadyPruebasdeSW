@@ -3,13 +3,14 @@
 using namespace std;
 string rotate(string word);
 bool searchFile(string word);
+
 int main(int argc, char * argv[])
 {
 
     string key = "RLCOPY";
     bool found = false;
     int count = 0;
-    cout << "searching..." << endl;
+    cout << "comparo..." << endl;
     while(count < 28)
     {
 
@@ -23,14 +24,10 @@ int main(int argc, char * argv[])
     }
     if(found)
     {
-        cout << "found" << endl;
-        cout << "key: " << key << endl;
+        cout << "encontrado!" << endl;
+        cout << "llave-> " << key << endl;
     }
 
-
-    //string hola = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
-
-    //rotate(hola);
     return 0;
 }
 
@@ -55,11 +52,7 @@ string rotate(string word)
 {
     for(int i = 0; i < word.length(); ++i)
     {
-
-        //cout << i+1 << " " << (int)word[i] << " " << word[i] << endl;
         word[i] = (char)((((int)word[i] + 1 - 65) % 26) + 65);
-        //cout << i+1 << " " << (int)word[i] << " " << word[i] << endl;
-
     }
     return word;
 }
