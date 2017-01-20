@@ -1,14 +1,3 @@
-template<class T>
-class Cifrado
-{
-  void decrypt()
-  {
-    if
-  }
-};
-
-
-/*
  #pragma once
  #include <string>
  #include <iostream>
@@ -27,4 +16,18 @@ class Cifrado
  };
  
  Cifrado::Cifrado() { }
+
+
+/*
+
+template<class T>
+class Cifrado
+{
+  void decrypt()
+  {
+    if
+  }
+};
+
+
 */
