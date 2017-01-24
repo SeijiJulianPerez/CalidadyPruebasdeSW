@@ -1,4 +1,4 @@
-#include "TypeParameterized.h"
+#include "typeParameterized.h"
 
 typedef testing::Types<Ordenamiento<int> > implementations;
 
