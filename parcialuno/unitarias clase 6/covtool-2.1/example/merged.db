@@ -1,0 +1,22 @@
+file: /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/stdio.h 4 0 0
+il:  346 347 348 350 
+file: /Users/corage_wow/Desktop/covtool-2.1/example/program.c 7 7 100
+il:  4 5 7 10 12 15 17 
+el:  4 5 7 10 12 15 17 
+totals: 11 7 63
+dir: /Applications 4 0 0
+dir: /Applications/Xcode.app 4 0 0
+dir: /Applications/Xcode.app/Contents 4 0 0
+dir: /Applications/Xcode.app/Contents/Developer 4 0 0
+dir: /Applications/Xcode.app/Contents/Developer/Platforms 4 0 0
+dir: /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform 4 0 0
+dir: /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer 4 0 0
+dir: /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs 4 0 0
+dir: /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk 4 0 0
+dir: /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr 4 0 0
+dir: /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include 4 0 0
+dir: /Users 7 7 100
+dir: /Users/corage_wow 7 7 100
+dir: /Users/corage_wow/Desktop 7 7 100
+dir: /Users/corage_wow/Desktop/covtool-2.1 7 7 100
+dir: /Users/corage_wow/Desktop/covtool-2.1/example 7 7 100
